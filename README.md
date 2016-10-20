@@ -7,4 +7,4 @@
  
 ### 풀이 
 - [ahaljh](https://github.com/scala-tutorials-kr/google-code-jam-problems/blob/master/qualification-round-africa-2010/t9spelling-ahaljh.scala)
-- daesap  
+- KimDaesap  
